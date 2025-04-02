@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wee Ye Zhi</h1>
+<h1 align="center">Hi 👋, I'm Wee Ye Zhi 👨🏻‍🔬</h1>
 <h3 align="center">A passionate master postgraduate student who is proficient in writing bash, python & R scripts to perform bioinformatics analysis to gain meaningful insights from biological data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weeyezhi&label=Profile%20views&color=0e75b6&style=flat" alt="weeyezhi" /> </p>
