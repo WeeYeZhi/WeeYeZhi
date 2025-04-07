@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **in silico research project to discover inhibitors that can be potentially harnessed and leveraged as insecticides to address the alarming issue of cocoa pod borer infestation.**
 
-- 🌱 I’m currently learning **Nextflow and Snakemake**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Nextflow and Snakemake**
 
 - 👨‍💻 All of my projects are available at [https://wee-resume-app.onrender.com/](https://wee-resume-app.onrender.com/)
 
